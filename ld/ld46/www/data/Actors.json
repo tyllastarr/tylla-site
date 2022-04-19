@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Marger","characterIndex":0,"characterName":"Marger","classId":1,"equips":[1,1,2,4,0],"faceIndex":0,"faceName":"Marger","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marger","nickname":"Marge","note":"","profile":""},
+{"id":2,"battlerName":"kittycat","characterIndex":1,"characterName":"Nature","classId":3,"equips":[2,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rewyn","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Princess","characterIndex":0,"characterName":"Princess","classId":2,"equips":[0,0,6,7,0],"faceIndex":0,"faceName":"Princess","traits":[],"initialLevel":3,"maxLevel":99,"name":"Layla","nickname":"","note":"","profile":""}
+]

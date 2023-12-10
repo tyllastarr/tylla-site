@@ -1,9 +1,0 @@
-[
-null,
-{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,8,0,0,0,0,0],"price":50,"wtypeId":2},
-{"id":2,"animationId":16,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":105,"name":"Claw","note":"","params":[0,0,20,0,0,0,0,0],"price":0,"wtypeId":10},
-{"id":3,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Bastard Sword","note":"","params":[0,0,16,0,0,0,0,0],"price":100,"wtypeId":2},
-{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":105,"name":"Sharp Claw","note":"","params":[0,0,25,0,0,0,0,0],"price":300,"wtypeId":10},
-{"id":5,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Razor Sword","note":"","params":[0,0,30,0,0,0,0,0],"price":250,"wtypeId":2},
-{"id":6,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":105,"name":"Razor Claw","note":"","params":[0,0,40,0,0,0,0,0],"price":400,"wtypeId":10}
-]

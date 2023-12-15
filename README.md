@@ -1,2 +1,2 @@
-# tylla-site
-Redesign of my personal website
+# Tyll'a Site
+This is the official Tyll'a website

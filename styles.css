@@ -10,3 +10,8 @@ body {
 .navsize {
 	font-size: 3em;
 }
+
+#navbar {
+	position: sticky;
+	top: 0px;
+}

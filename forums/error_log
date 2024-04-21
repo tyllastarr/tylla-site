@@ -1,0 +1,21 @@
+[07-Mar-2024 19:15:21 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "Patchwork\Utf8\MB_OVERLOAD_STRING" in /home3/psduckie/public_html/forums/vendor/patchwork/utf8/src/Patchwork/Utf8/Bootup.php:45
+Stack trace:
+#0 /home3/psduckie/public_html/forums/includes/utf/utf_tools.php(28): Patchwork\Utf8\Bootup::initMbstring()
+#1 /home3/psduckie/public_html/forums/common.php(97): require('/home3/psduckie...')
+#2 /home3/psduckie/public_html/forums/index.php(23): include('/home3/psduckie...')
+#3 {main}
+  thrown in /home3/psduckie/public_html/forums/vendor/patchwork/utf8/src/Patchwork/Utf8/Bootup.php on line 45
+[08-Mar-2024 04:12:07 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "Patchwork\Utf8\MB_OVERLOAD_STRING" in /home3/psduckie/public_html/forums/vendor/patchwork/utf8/src/Patchwork/Utf8/Bootup.php:45
+Stack trace:
+#0 /home3/psduckie/public_html/forums/includes/utf/utf_tools.php(28): Patchwork\Utf8\Bootup::initMbstring()
+#1 /home3/psduckie/public_html/forums/common.php(97): require('/home3/psduckie...')
+#2 /home3/psduckie/public_html/forums/index.php(23): include('/home3/psduckie...')
+#3 {main}
+  thrown in /home3/psduckie/public_html/forums/vendor/patchwork/utf8/src/Patchwork/Utf8/Bootup.php on line 45
+[03-Apr-2024 11:38:44 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "Patchwork\Utf8\MB_OVERLOAD_STRING" in /home3/psduckie/public_html/forums/vendor/patchwork/utf8/src/Patchwork/Utf8/Bootup.php:45
+Stack trace:
+#0 /home3/psduckie/public_html/forums/includes/utf/utf_tools.php(28): Patchwork\Utf8\Bootup::initMbstring()
+#1 /home3/psduckie/public_html/forums/common.php(97): require('/home3/psduckie...')
+#2 /home3/psduckie/public_html/forums/index.php(23): include('/home3/psduckie...')
+#3 {main}
+  thrown in /home3/psduckie/public_html/forums/vendor/patchwork/utf8/src/Patchwork/Utf8/Bootup.php on line 45
